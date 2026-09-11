@@ -29,7 +29,7 @@ adidas_men_sneakers.csv
 
 ## How it works
 
-The scraper sends requests to the endpoint using a persistent `requests.Session()` with the required headers and cookies. The API returns 48 products per request from 23 pages, with 1,104 products available for the selected men's athletic sneakers category.
+The scraper sends requests to the endpoint using a persistent `requests.Session()` with the required headers and cookies. The API returns 48 products per request from 23 pages, with 1,101 products available for the selected men's athletic sneakers category.
 
 
 This gives the following starting positions:
