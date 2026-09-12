@@ -1,4 +1,4 @@
-# Adidas Sneakers Scraper
+# Adidas Sneaker Product API Scraper
 
 This scraper collects Adidas men's sneaker product data directly from the site's internal product API.
 
